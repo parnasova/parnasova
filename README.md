@@ -2,12 +2,11 @@
 
 ![Hi](https://github.com/parnasova/parnasova/blob/main/hello.gif "Hi")
 
-I am a beginner [bloggess](https://t.me/secret_spb) and web developer. But I'm currently working at GameDev on Unity.
+I am a beginner [bloggess](https://t.me/secret_spb) and web developer. I mainly work with the wordpress engine. Although I can work as a full-stack developer, but BackEnd is a priority for me, rather than the FrontEnd.
+
+In addition, I'm also trying my hand at developing games on Unity.
 
 ## ✨ My skills
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -38,10 +37,13 @@ Contacts:
 
 * [My web site](https://parnasova.info)
 
-* [Telegramm](https://t.me/anastasiya_parnasova)
+* [Telegram](https://t.me/anastasiya_parnasova)
 
-* [Mail on Goggle](anastasiya.parnasova@gmail.com)
+* [VK](https://vk.com/anastasiya.parnasova)
+
+* [Mail on Google](anastasiya.parnasova@gmail.com)
+
+* [Mail on Yandex](anastasiya.parnasova@yandex.ru)
 
 ____
 
-Bye! Have a nice day)
